@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\PriorityQueueWithLink list\PriorityQueueWithLink list\bin\Debug\PriorityQueueWithLink list.exe.config
+D:\kia prjc\tamrin\PriorityQueueWithLink list\PriorityQueueWithLink list\bin\Debug\PriorityQueueWithLink list.exe
+D:\kia prjc\tamrin\PriorityQueueWithLink list\PriorityQueueWithLink list\bin\Debug\PriorityQueueWithLink list.pdb
+D:\kia prjc\tamrin\PriorityQueueWithLink list\PriorityQueueWithLink list\obj\Debug\PriorityQueueWithLink list.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\PriorityQueueWithLink list\PriorityQueueWithLink list\obj\Debug\PriorityQueueWithLink list.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\PriorityQueueWithLink list\PriorityQueueWithLink list\obj\Debug\PriorityQueueWithLink list.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\PriorityQueueWithLink list\PriorityQueueWithLink list\obj\Debug\PriorityQueueWithLink list.exe
+D:\kia prjc\tamrin\PriorityQueueWithLink list\PriorityQueueWithLink list\obj\Debug\PriorityQueueWithLink list.pdb
